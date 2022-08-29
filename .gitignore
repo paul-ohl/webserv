@@ -1,0 +1,15 @@
+tags
+.DS_Store
+a.out*
+objs/
+deps/
+.cache
+compile_commands.json
+webserv
+.vscode
+*~
+*.o
+srcs/testing/gtests
+req
+go_tester
+ubuntu_tester
